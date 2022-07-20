@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RishiKumar0897
-- 👀 I’m interested in AI & ML
+- 👀 I’m interested in AI & Cyversecurity
 - 🌱 I’m currently learning Python & Java
 
 
