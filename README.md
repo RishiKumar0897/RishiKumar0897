@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishiKumar0897
 - 👀 I’m interested in AI & Cyversecurity
-- 🌱 I’m currently learning Python, Java, HTML, and C
+- 🌱 I’m currently learning Python, Java, HTML, and 
 
 
 <!---
