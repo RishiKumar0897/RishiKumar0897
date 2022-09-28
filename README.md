@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishiKumar0897
 - 👀 I’m interested in Cybersecurity and Software Development
-- 🌱 I’m currently learning Python, Java, JavaScript, and C##
+- 🌱 I’m currently learning Python, Java, JavaScript, and C#
 
 
 <!---
