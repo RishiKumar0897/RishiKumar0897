@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RishiKumar0897
 - I'm a student at Georgia Tech studying Computer Science, concentrating in Artificial Intelligence and Information Internetworks.
-- 👀 I’m interested in Cybersecurity and Software Development
 - 🌱 I’m currently learning Python, Java, JavaScript, and C++
 
 
